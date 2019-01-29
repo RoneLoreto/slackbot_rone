@@ -1,3 +1,5 @@
-# 概要
+Rone Slackbot 
+====
 
-IntelliJ IDEAとGitHubの連携テスト
+##Overview
+slackletを用いたslackbot
